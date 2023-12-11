@@ -1,0 +1,32 @@
+.box{
+    width: 5em;
+    height: 5em;
+}
+
+.container{
+    margin-top: 5em;
+}
+
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: rgb(175, 44, 26);
+}
+
+.dark-red{
+    background-color: rgb(130, 33, 21);
+}
+
+.dark-sky{
+    background-color: rgb(135, 206, 250);
+}
+
+.sky{
+    background-color: rgb(180, 226, 255);
+}
+
+.light-sky{
+    background-color: rgb(219, 241, 255);
+}
